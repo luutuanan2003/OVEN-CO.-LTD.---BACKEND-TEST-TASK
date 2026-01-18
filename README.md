@@ -18,6 +18,13 @@ A production-ready webhook receiver service built with NestJS, featuring input v
 - Node.js 18+
 - npm or yarn
 
+## Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+cd webhook-receiver-service
+
 # Install dependencies
 npm install
 ```
